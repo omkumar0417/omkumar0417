@@ -1,49 +1,99 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=180&section=header&text=Om%20Kumar&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f6feb&height=200&section=header&text=Om%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-## 👋 Hi, I’m Om Kumar
+<h3 align="center">Aspiring Full-Stack Java Developer</h3>
 
-- 🎓 B.Tech Computer Science student at **SRM University**
-- 💻 Aspiring **Full-Stack Java Developer**
-- 🔧 Strong in **Java, Servlets, JSP, JDBC, Oracle SQL**
-- 🌱 Currently improving backend architecture & DSA
-- 🌐 Portfolio: https://omkumarportfolio.vercel.app
+<p align="center">
+  <a href="https://omkumarportfolio.vercel.app"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/omkumar0417"><b>LinkedIn</b></a> •
+  <a href="https://github.com/omkumar0417"><b>GitHub</b></a>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 👋 About Me
 
-- **Backend:** Java, Servlets, JSP, JDBC, Oracle SQL
-- **Frontend:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, Apache Tomcat, Eclipse
-- **Concepts:** MVC, Authentication, Session Management
+- 🎓 **B.Tech Computer Science** student at **SRM University**
+- 💻 Backend-focused **Full-Stack Java Developer**
+- 🧩 Interested in building **real-world, scalable web applications**
+- 🚀 Strong foundation in **Java EE, databases, and MVC architecture**
+- 🌱 Currently strengthening **DSA and backend system design**
+
+---
+
+## 🛠️ Technical Skills
+
+### 💡 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlets-JavaEE-blue"/>
+  <img src="https://img.shields.io/badge/JSP-JavaEE-orange"/>
+  <img src="https://img.shields.io/badge/JDBC-Database-green"/>
+  <img src="https://img.shields.io/badge/Oracle-SQL-red"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+### ⚙️ Tools & Concepts
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/Tomcat-Apache-yellow"/>
+  <img src="https://img.shields.io/badge/MVC-Architecture-blueviolet"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📝 Online Examination Portal
-- Full-stack Java web application
-- Admin & Student roles
-- Timed online exams
-- Automatic evaluation
-- Previous result tracking  
-🔗 Repo: *(add your repo link)*
+**Tech:** Java • Servlets • JSP • JDBC • Oracle SQL  
+- Secure authentication (Admin & Student)
+- Timed online examinations with auto-submit
+- Dynamic question loading from database
+- Automatic evaluation & result generation
+- Student dashboard showing previous exam attempts  
+
+🔗 **Repository:** *(add your repo link here)*
+
+---
 
 ### 📊 SRM Grade Calculator
-- JavaScript-based grade calculator
-- Responsive UI  
-🔗 https://srmgradecalculator.vercel.app
+**Tech:** HTML • CSS • JavaScript  
+- Dynamic grade calculation logic
+- Client-side validation
+- Fully responsive UI  
+
+🔗 **Live Demo:** https://srmgradecalculator.vercel.app
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkumar0417&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkumar0417&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/omkumar0417
-- LinkedIn: https://www.linkedin.com/in/omkumar0417
-- Portfolio: https://omkumarportfolio.vercel.app
+- 🌐 Portfolio: https://omkumarportfolio.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/omkumar0417
+- 🧑‍💻 GitHub: https://github.com/omkumar0417
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkumar0417&show_icons=true&theme=github_dark"/>
+  <i>Focused on building strong backend foundations and real-world Java applications.</i>
 </p>
