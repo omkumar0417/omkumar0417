@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f6feb&height=200&section=header&text=Om%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f6feb&height=200&section=header&text=Om%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">Aspiring Full-Stack Java Developer</h3>
@@ -10,15 +10,19 @@
   <a href="https://github.com/omkumar0417"><b>GitHub</b></a>
 </p>
 
+<p align="center">
+  <i>Backend-focused • Java EE • Real-world project driven</i>
+</p>
+
 ---
 
 ## 👋 About Me
 
-- 🎓 **B.Tech Computer Science** student at **SRM University**
-- 💻 Backend-focused **Full-Stack Java Developer**
-- 🧩 Interested in building **real-world, scalable web applications**
-- 🚀 Strong foundation in **Java EE, databases, and MVC architecture**
-- 🌱 Currently strengthening **DSA and backend system design**
+- 🎓 B.Tech Computer Science student at **SRM University**
+- 💻 Aspiring **Full-Stack Java Developer**
+- 🧩 Strong interest in backend engineering & system design
+- 🔧 Experienced with **Java, Servlets, JSP, JDBC, Oracle SQL**
+- 🌱 Currently strengthening **DSA and backend architecture**
 
 ---
 
@@ -44,8 +48,9 @@
 <p>
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Tomcat-Apache-yellow"/>
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-Apache-yellow"/>
   <img src="https://img.shields.io/badge/MVC-Architecture-blueviolet"/>
+  <img src="https://img.shields.io/badge/Session%20Management-JavaEE-success"/>
 </p>
 
 ---
@@ -54,11 +59,13 @@
 
 ### 📝 Online Examination Portal
 **Tech:** Java • Servlets • JSP • JDBC • Oracle SQL  
+
 - Secure authentication (Admin & Student)
-- Timed online examinations with auto-submit
+- Role-based access control
+- Timed online exams with auto-submit
 - Dynamic question loading from database
 - Automatic evaluation & result generation
-- Student dashboard showing previous exam attempts  
+- Student dashboard showing previous exam results  
 
 
 
@@ -66,22 +73,27 @@
 
 ### 📊 SRM Grade Calculator
 **Tech:** HTML • CSS • JavaScript  
+
 - Dynamic grade calculation logic
-- Client-side validation
+- Client-side input validation
 - Fully responsive UI  
 
 🔗 **Live Demo:** https://srmgradecalculator.vercel.app
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkumar0417&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omkumar0417&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkumar0417&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <i>Consistent learner with hands-on project-based development</i>
 </p>
 
 ---
