@@ -60,7 +60,7 @@
 - Automatic evaluation & result generation
 - Student dashboard showing previous exam attempts  
 
-🔗 **Repository:** *(add your repo link here)*
+
 
 ---
 
