@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f6feb&height=200&section=header&text=Om%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkumar0417&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
+
 <h3 align="center">Aspiring Full-Stack Java Developer</h3>
 
 <p align="center">
