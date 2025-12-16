@@ -68,7 +68,7 @@
 - Automatic evaluation with result breakdown
 - Student dashboard showing **previous exam results**
 
-🔗 **Repository:** *(add your repo link here)*
+
 
 ---
 
